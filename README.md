@@ -1,8 +1,8 @@
 ## Oiii eu sou o Matheus Chaves, estudante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/chxvxxs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chxvxxs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chxvxxs&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chxvxxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chxvxxs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="chv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
