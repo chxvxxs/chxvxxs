@@ -24,10 +24,14 @@
   <img align="center" alt="Chaves-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Chaves-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+<!-- Gif -->
+<img align="right" height="150" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif"/>
+
 <!-- Cobrinha -->
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/chxvxxs/chxvxxs/output/snake.svg" alt="Snake animation" />
+
+
 
 
 
