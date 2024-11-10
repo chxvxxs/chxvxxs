@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Matheus+Chaves;Eu+tenho+18+anos;Sou+Brasileiro;Sou+técnico+em+Desenvolvimento+de+Sistemas;Sejam+Bem-Vindos(a)!+:%29)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chxvxxs&bg_color=000000&color=ffffff&line=ababab&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
