@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 Sou um Dev-Fullstack, criativo e fascinado por tecnologia.<br>⚡ Formado em Desenvolvimento de Sistemas na ETE Porto Digital.<br>👩‍🎓 Graduando em SI na Universidade Católica de Pernambuco.</p>
+<p align="left">👩🏻‍💻 Dev-Fullstack, proativo, comunicativo e fascinado por tecnologia.<br>⚡Formado em Desenvolvimento de Sistemas na ETE Porto Digital.<br>👩‍🎓 Graduando em SI na Universidade Católica de Pernambuco.<br>👩‍🎓 Turma G9 - Alura One</p>
 
 ###
 
