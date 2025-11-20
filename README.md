@@ -47,7 +47,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/chxvxxs/chxvxxs/output/snake.svg" alt="Snake animation" />
+
 
 ###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
