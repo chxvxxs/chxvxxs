@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Dev-Fullstack, proativo, comunicativo e fascinado por tecnologia.<br>🎓 Formado em Desenvolvimento de Sistemas na ETE Porto Digital.<br>🎓 Graduando em SI na Universidade Católica de Pernambuco.<br>👾 Back-End Java - Oracle Next Education.<br>🔐 FAST - Cesar School CiberSegurança.</p>
+<p align="left">👨🏻‍💻 Dev-Fullstack, proativo, comunicativo e fascinado por tecnologia.<br>🎓 Formado em Desenvolvimento de Sistemas na ETE Porto Digital.<br>🎓 Graduando em SI na Universidade Católica de Pernambuco.<br>👾 Back-End Java - Oracle Next Education.</p>
 
 ###
 
