@@ -3,16 +3,18 @@
 
 ###
 
-<p align="left">👩🏻‍💻 Dev-Fullstack, proativo, comunicativo e fascinado por tecnologia.<br>🎓 Formado em Desenvolvimento de Sistemas na ETE Porto Digital.<br>🎓 Graduando em SI na Universidade Católica de Pernambuco.<br>👾 Back-End Java - Oracle Next Education.</p>
+<p align="left">👨🏻‍💻 Dev-Fullstack, proativo, comunicativo e fascinado por tecnologia.<br>🎓 Formado em Desenvolvimento de Sistemas na ETE Porto Digital.<br>🎓 Graduando em SI na Universidade Católica de Pernambuco.<br>👾 Back-End Java - Oracle Next Education.<br>🔐 FAST - Cesar School CiberSegurança.</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chxvxxs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chxvxxs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chxvxxs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&cache_seconds=86400" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chxvxxs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&cache_seconds=86400" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<h3 align="center">💻 Tech Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
@@ -23,15 +25,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
 ###
+
+<h3 align="center">📱 Featured Projects</h3>
+
+- **CyberCom** — Plataforma de comunidade para cibersegurança (Expo/React Native)
+- **Backend CyberCom** — API backend com Java/Spring Boot
+- **Computer Vision IA** — Sistema de detecção com Arduino e OpenCV
+- **Discord Bot** — Bot automatizado com Node.js
+
+###
+
+<h3 align="center">🔗 Let's Connect</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/chavessdev/" target="_blank">
