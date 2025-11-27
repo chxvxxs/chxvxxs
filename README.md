@@ -36,9 +36,9 @@
 
 <h3 align="center">📱 Featured Projects</h3>
 
-- **CyberCom** — Plataforma de comunidade para cibersegurança (Expo/React Native)
-- **Backend CyberCom** — API backend com Java/Spring Boot
-- **Computer Vision IA** — Sistema de detecção com Arduino e OpenCV
+- **CyberCom** — Plataforma de comunidade para cibersegurança (Expo/React Native/Express/Node.Js)
+- **Oliveiras Multimarcas** — API backend com Java/Spring Boot + Front end feito com React + Next para concessionária
+- **Computer Vision IA** — Sistema de detecção de carrinhos para semáforo inteligente com Arduino e Yolo
 - **Discord Bot** — Bot automatizado com Node.js
 
 ###
