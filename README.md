@@ -27,12 +27,6 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=babel" height="35" alt="babel logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=discord" height="35" alt="discord logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="35" alt="eclipseide logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
