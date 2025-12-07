@@ -61,6 +61,12 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="vscode logo"  />
+  <img width="5" />
+  
 </div>
 
 ###
