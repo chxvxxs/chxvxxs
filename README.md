@@ -88,9 +88,7 @@
 - **CybCom** — Plataforma de comunidade para cibersegurança (Expo/React Native/Express/Node.Js)
 - **Oliveiras Multimarcas** — API backend com Java/Spring Boot + Front end feito com React + Next para concessionária
 - **Computer Vision IA** — Sistema de detecção de carrinhos para semáforo inteligente com Arduino e Yolo
-- **Discord Bot** — Bot automatizado com Node.js
 
-###
 ###
 
 <div align="center">
