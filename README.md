@@ -70,15 +70,17 @@
 </div>
 
 ###
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chxvxxs&theme=tokyonight" height="150" alt="stats graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chxvxxs&theme=tokyonight" height="150" alt="stats graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chxvxxs&theme=tokyonight" height="150" alt="stats graph"  />
+</div>
 
 
 ###
 
-<h3 align="center">Featured Projects</h3>
+<h3 align="center">Stats</h3>
 
-- **CybCom** — Plataforma de comunidade para cibersegurança (Expo/React Native/Express/Node.Js)
-- **Oliveiras Multimarcas** — API backend com Java/Spring Boot + Front end feito com React + Next para concessionária
-- **Computer Vision IA** — Sistema de detecção de carrinhos para semáforo inteligente com Arduino e Yolo
 
 ###
 
