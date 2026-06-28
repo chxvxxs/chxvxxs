@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 <h1 align="center">Hello, World! I'm Matheus Chaves 🤓</h1>
 
 ###
@@ -101,4 +101,4 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chxvxxs.chxvxxs&left_color=black&right_color=darkviolet&left_text=visitantes"  />
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
