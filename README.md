@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">📍️Recife-PE<br>👨🏻‍💻 Dev-Fullstack, proativo, comunicativo e fascinado por tecnologia.<br>🎓 Formado em Desenvolvimento de Sistemas na ETE Porto Digital.<br>🎓 Graduando em SI na Universidade Católica de Pernambuco.<br>👾 Back-End Java - Oracle Next Education.</p>
+<p align="left">📍️Recife-PE<br>👨🏻‍💻 Dev-Fullstack, proativo, comunicativo e fascinado por tecnologia.<br>🎓 Formado em Desenvolvimento de Sistemas na ETE Porto Digital.<br>🎓 Graduado em Sistemas para Internet na Universidade Católica de Pernambuco.<br>👾 Back-End Java - Oracle Next Education.</p>
 
 ###
 <br>
